@@ -14,7 +14,9 @@ PARA ESTE CASO USAREMOS ALUMNOS
 alumnos = [
     {'nombre':'cesar mayta',
     'email':'cesarmayta@gmail.com',
-    'celular':'956290589'}
+    'celular':'956290589'}, {'nombre':'daniel alvarado',
+    'email':'dani0alva0nino@gmail.com',
+    'celular':'930404734'}
     ]
 
 opcion = "0"
