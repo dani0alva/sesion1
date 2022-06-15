@@ -1,7 +1,21 @@
 import os
 import time
-
-
+""" APLICACIÓN CRUD
+C - CREATE
+R - READ
+U - UPDATE
+D - DELETE
+PARA ESTE CASO USAREMOS ALUMNOS
+[
+    {'nombre':'','email':'','celular':''},
+    {'nombre':'','email':'','celular':''}
+]
+"""
+alumnos = [
+    {'nombre':'cesar mayta',
+    'email':'cesarmayta@gmail.com',
+    'celular':'956290589'}
+    ]
 
 opcion = "0"
 while(opcion != "5"):
