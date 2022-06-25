@@ -18,7 +18,9 @@ alumnos = [
     'email':'dani0alva0nino@gmail.com',
     'celular':'930404734'},{'nombre':'juver manrique',
     'email':'juver@gmail.com',
-    'celular':'97977979879'}
+    'celular':'97977979879'},{'nombre':'noemi shaquia',
+    'email':'noemi@gmail.com',
+    'celular':'9559595696'}
     ]
 
 opcion = "0"
